@@ -26,3 +26,11 @@
 .underline {
     text-decoration: underline;
 }
+
+
+.citation {
+    text-align:center;
+    font-size:6em;
+    padding-top:16px;
+    color: midnightblue;
+}
